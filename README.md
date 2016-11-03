@@ -3,6 +3,7 @@
 
 ## View Programming Guide for iOS
 [1.Introduction.md](View Programming Guide for iOS/1.Introduction.md)
+
 </br>
 
 [2. View and Window Architecture.md](View Programming Guide for iOS/2. View and Window Architecture.md)
@@ -18,6 +19,7 @@
 [2.1.4 Stretchable Views.md](View Programming Guide for iOS/2.1.4 Stretchable Views.md)
 
 [2.1.5 Built-In Animation Support.md](View Programming Guide for iOS/2.1.5 Built-In Animation Support.md)
+
 </br>
 
 [3.Windows.md](View Programming Guide for iOS/3.Windows.md
